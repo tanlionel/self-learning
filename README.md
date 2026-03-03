@@ -4,7 +4,7 @@ A comprehensive repository documenting my technical growth, architectural decisi
 
 ---
 
-## 🎯 Career Vision: Junior to Middle Engineer
+## 🎯 Career Vision:
 My primary goal is to master the complexity of distributed systems and high-concurrency environments.
 
 ### 📍 Current Milestone: Junior Mastery
