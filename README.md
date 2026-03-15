@@ -1,4 +1,4 @@
-# 🚀 Backend Engineering: Road to Middle/Senior
+# 🚀 Backend Engineering:
 
 A comprehensive repository documenting my technical growth, architectural decisions, and career progression. This serves as my "Second Brain" for Java backend development, cloud-native infrastructure, and algorithmic mastery.
 
@@ -7,7 +7,7 @@ A comprehensive repository documenting my technical growth, architectural decisi
 ## 🎯 Career Vision:
 My primary goal is to master the complexity of distributed systems and high-concurrency environments.
 
-### 📍 Current Milestone: Junior Mastery
+### 📍 Current Milestone: 
 - [ ] **Code Quality:** Mastering Clean Code, SOLID principles, and Design Patterns.
 - [ ] **Infrastructure:** Moving from "Running Apps" to "Orchestrating Clusters" (K8s).
 - [ ] **Performance:** Understanding JVM tuning, Profiling, and SQL Optimization.
